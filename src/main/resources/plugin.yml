@@ -1,0 +1,8 @@
+name: Discord_rpc
+version: '1.0-SNAPSHOT'
+main: gmail.com.heyfang36.discord_rpc.Discord_rpc
+api-version: '1.21'
+commands:
+  diamond:
+    description: Gives you a diamond
+    usage: /diamond
